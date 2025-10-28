@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GameDev/Git & Github.md",
+                "file": "GameDev/Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git & Github"
+              "title": "Ideas"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "fd76b805ddaafec5",
   "lastOpenFiles": [
-    "GameDev/Ideas.md",
     "GameDev/Git & Github.md",
+    "GameDev/Ideas.md",
     "tryhackme/Cyber Security 101/Shells Overview.md",
     "tryhackme/Cyber Security 101/Cryptography.md",
     "python for hackers(freecodecamp)/Web basics.md",
