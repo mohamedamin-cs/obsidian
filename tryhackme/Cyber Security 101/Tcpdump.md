@@ -1,0 +1,30 @@
+def : > **tcpdump** is a [[network sniffer]] that captures and displays [[packets]] for analysis.
+- tcpdump -i eth0(any) : interface.
+- ip a s : list the available network interfaces.
+- -w file.pcap: write [[pcap]].
+- -r file.pcap: read pcap.
+- -c count :number of packets to capture.
+- -n : avoid DNS lookup.
+- -nn : stop both DNS and port number lookups.
+- -v/-vv/-vvv : details.
+- sudo tcpdump host (src/dst/ ) HOSTNAME :limit the captured packets to this host.
+- sudo tcpdump port (src/dst/ ) PORT_NUMBER
+- (greater/less) LENGTH
+- man pcap-filter
+- proto[expr:size] (poroto:arp/ipv4/udp ... ,expr :the byte offset (0 first byte), number of bytes that interest us ).
+- tcpdump "tcp[tcpflags] == tcp-syn" : 
+	- `tcp-syn` TCP SYN (Synchronize)
+	- `tcp-ack` TCP ACK (Acknowledge)
+	- `tcp-fin` TCP FIN (Finish)
+	- `tcp-rst` TCP RST (Reset)
+	- `tcp-push` TCP Push
+	- examples :
+		-  `tcpdump "tcp[tcpflags] == tcp-syn"` to capture TCP packets with **only** the SYN (Synchronize) flag set, while all the other flags are unset.
+		- `tcpdump "tcp[tcpflags] & tcp-syn != 0"` to capture TCP packets with **at least** the SYN (Synchronize) flag set.
+		- `tcpdump "tcp[tcpflags] & (tcp-syn|tcp-ack) != 0"` to capture TCP packets with **at least** the SYN (Synchronize) **or** ACK (Acknowledge) flags set.
+- tcpdump -r TwoPackets.pcap -option :
+	- `-q`: Quick output; print brief packet information
+	- `-e`: Print the link-level header
+	- `-A`: Show packet data in ASCII
+	- `-xx`: Show packet data in hexadecimal format, referred to as hex
+	- `-X`: Show packet headers and data in hex and ASCII

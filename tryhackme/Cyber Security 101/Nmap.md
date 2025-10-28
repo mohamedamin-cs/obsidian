@@ -1,0 +1,23 @@
+***def*** :  Nmap is an open-source [[network scanner]].
+- **-sn :** ping scan.
+- **-sL :** no scan, just show [[targets]].
+- **-sT** : [[TCP]] handshake.
+- **-sS :** only SYN (stealthy).
+- **-sU :** [[UDP]].
+- **-F :** fast mode.
+- **-p :** range of [[ports]] nums (-p- all).
+- **-O :** os.
+- **-sV :** version detection.
+- **-A :** enables OS detection, version scanning, and traceroute, among other things.
+- **-Pn :** Scan hosts that appear to be down.
+- **-T0 -> T5 :** slow -> fast.(default T3)
+- **--min-parallelism / --max-parallelism :** Control the number of **parallel [[probes]]**.A **probe** in Nmap refers to a **test packet** (or group of packets) that Nmap **sends to a target** in order to **gather information**. This could include:Checking if a **port is open or closed**/-Trying to **detect the OS**/...
+- **--min-rate/ --max-rate :** Specify **minimum or maximum number of [[packets]] per second** sent during the scan.
+- **--host-timeout** : kill scan for a host after a timeout.
+- **-v :** verbosity v1 -> v4
+- **-d :** debugging (-d9 is max lvl).
+- Saving Scan Report :
+	- `-oN <filename>` - Normal output
+	- `-oX <filename>` - XML output
+	- `-oG <filename>` - `grep`-able output (useful for `grep` and `awk`)
+	- `-oA <basename>` - Output in all major formats

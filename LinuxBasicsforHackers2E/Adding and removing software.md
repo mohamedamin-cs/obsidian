@@ -1,0 +1,7 @@
+- sudo [[apt]] **search** package.
+- sudo apt **[[install]]** packagename.
+- sudo apt **[[remove]]** packagename.
+- sudo apt **[[purge]]** packagename (romeve sftw + conf files).
+- sudo apt **[[upadate]]**.
+- sudo mousepad /etc/apt/**sources.list** :The [[repositories]] your system will search for software are stored in the sources.list file.(dont edit it)
+- git clone https://github.com/Ullaakut/cameradar

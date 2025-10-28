@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "cbaedb3d9b68cf83",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a4522b49a07667a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd76b805ddaafec5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GameDev/Git & Github.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git & Github"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9af4ce804c5cac5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca89aa203e085009",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43dcbcdaf5abb2d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1a25ec45bf97efa0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "lin",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "34c02dfec6355b17",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.50260543823242
+  },
+  "right": {
+    "id": "265cb2878e588f93",
+    "type": "split",
+    "children": [
+      {
+        "id": "931a97cd4ef46a54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "add71055bd01cbc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "python for hackers(freecodecamp)/Python ideas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Python ideas"
+            }
+          },
+          {
+            "id": "cc6487ed1a83505a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "python for hackers(freecodecamp)/Python ideas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Python ideas"
+            }
+          },
+          {
+            "id": "6af5b5eef214706f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d8cd77d8f24beb90",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "python for hackers(freecodecamp)/Python ideas.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Python ideas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fd76b805ddaafec5",
+  "lastOpenFiles": [
+    "GameDev/Ideas.md",
+    "GameDev/Git & Github.md",
+    "tryhackme/Cyber Security 101/Shells Overview.md",
+    "tryhackme/Cyber Security 101/Cryptography.md",
+    "python for hackers(freecodecamp)/Web basics.md",
+    "python for hackers(freecodecamp)/Python ideas.md",
+    "GameDev",
+    "tryhackme/Cyber Security 101/Gobuster.md",
+    "tryhackme/Cyber Security 101/JavaScript Essentials.md",
+    "tryhackme/Cyber Security 101/Web Application Basics.md",
+    "AWS Cloud Practitioner Essentials/Introduction to the Cloud.md",
+    "LinuxBasicsforHackers2E/File system and storage device management.md",
+    "LinuxBasicsforHackers2E/Controlling file and directory permissions.md",
+    "LinuxBasicsforHackers2E/Bash scripting.md",
+    "LinuxBasicsforHackers2E/Compressing and archiving.md",
+    "tryhackme/Cyber Security 101/Hydra.md",
+    "tryhackme/Cyber Security 101/hydra.md",
+    "tryhackme/hydra.md",
+    "tryhackme/Cyber Security 101/Hydra.md.conflict2",
+    "tryhackme/Cyber Security 101/Hydra.md.conflict1",
+    "tryhackme/Cyber Security 101/OWASP Top 10.md",
+    "img/271d0075650cdf6499f994f99fa7eb8a.md",
+    "img",
+    "tryhackme/Cyber Security 101/Burp Suite The Basics.md",
+    "tryhackme/Cyber Security 101/img/271d0075650cdf6499f994f99fa7eb8a.png",
+    "tryhackme/Cyber Security 101/img/2025-10-17_00-16.png",
+    "tryhackme/Cyber Security 101/Windows.md",
+    "tryhackme/Cyber Security 101/Tcpdump.md",
+    "tryhackme/Cyber Security 101/SQL Fendamentals.md",
+    "tryhackme/Cyber Security 101/img/Screenshot_20250707_163037.png",
+    "tryhackme/Cyber Security 101/img/Pasted image 20251016235916.png",
+    "tryhackme/Cyber Security 101/img/Pasted image 20251016230419.png",
+    "tryhackme/Cyber Security 101/img/Screenshot_20250703_002726.png",
+    "tryhackme/Cyber Security 101/img/11202e4c73faa30a757f1439b63b85c6.png",
+    "tryhackme/Cyber Security 101/img/Unconfirmed 276289.crdownload",
+    "tryhackme/Cyber Security 101/Command Line.md",
+    "tryhackme/Cyber Security 101/img/9f657b909062ac82af12548b4f346aec.png",
+    "tryhackme/Cyber Security 101/Nmap.md",
+    "tryhackme/Cyber Security 101/img/Pasted image 20251004121058.png",
+    "tryhackme/Cyber Security 101/img/Pasted image 20251004121042.png",
+    "python for hackers(freecodecamp)/Web basics HTML.md",
+    "Obsidain/AWS Cloud Practitioner Essentials/Introduction to the Cloud.md.d9fcd087.partial",
+    "Obsidain/AWS Cloud Practitioner Essentials",
+    "Obsidain/LinuxBasicsforHackers2E/Introductory Terms and Concepts.md.5a50c326.partial",
+    "Obsidain/LinuxBasicsforHackers2E/Controlling file and directory permissions.md.df4c6ece.partial",
+    "Obsidain/LinuxBasicsforHackers2E/File system and storage device management.md.7b7facec.partial",
+    "Untitled.canvas",
+    "Untitled/Untitled.canvas"
+  ]
+}

@@ -1,0 +1,15 @@
+- chown bob/tmp/bobsfile : move ownership of a file to a different user
+- sudo chgrp group_name newIDS :transfer ownership of a file from one group to another
+- chmod : change [[permission]] ;sudo chmod u+x, o+x hashcat.hcstat
+- Linux automatically assigns base permissions (usually 666 for files and 777 for directories).
+- The [[umask]] method represents the permissions you want to remove from the base permissions on a file or directory to make them more secure.
+	- linux base permission    7  7  7       6  6  6
+	- umask                          - 0  2  2     - 0  2  2
+	- resulting permission      7  5  5        6  4  4
+- [[SUID bit]]: any user can execute the file with the permissions of the owner but that those permissions don’t extend beyond the use of that file : $chmod$ ==4==664 $filename$
+- [[SGID bit]]: grants the permissions of the file owner’s group : $chmod$ ==2==644 $filename$
+- sticky bit : ignore it
+### Special Permissions, [[Privilege Escalation]], and the Hacker
+- SUID is so important
+- sudo find / -user root -perm -4000  : look for files with suid bit
+- the first set of permissions (those for the owner) has an s in place of the x
