@@ -78,3 +78,10 @@ git clean -fd (undo local changes)
 ```
 git restore --source=HEAD~1 file.txt
 ```
+---
+gh repo create repo-name --public --source=. --remote=origin --push
+
+gh repo create my-project --add-readme --public --clone
+
+cd my-project
+```

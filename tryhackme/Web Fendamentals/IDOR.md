@@ -1,0 +1,2 @@
+- It’s a security flaw where an app relies on user-provided IDs without proper access checks, letting someone view or modify data they shouldn’t.
+- In short: changing an object identifier (like a number in a URL) can expose another user’s information if authorization isn’t enforced.

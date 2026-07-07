@@ -12,3 +12,9 @@
 - https://www.youtube.com/watch?v=eRVRioN4GwA
 ## pixelart app
 - https://www.youtube.com/shorts/xi0vNsnrRcc
+## pixel sprites generator
+- https://www.pixellab.ai/
+## color palette
+- https://lospec.com/
+---
+make that murder game

@@ -1,55 +1,70 @@
 {
   "main": {
-    "id": "5b2b48ccb84c7c21",
+    "id": "3a303947faf92e24",
     "type": "split",
     "children": [
       {
-        "id": "a12e9ea4f6909a57",
+        "id": "0f990b491c44bc14",
         "type": "tabs",
         "children": [
           {
-            "id": "048a19823d6ded94",
+            "id": "fdb28f083ee852b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "binary exploitation/pwn college/assembly.md",
+                "file": "tryhackme/Web Fendamentals/OWASP API Security Top 10 - 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "assembly"
+              "title": "OWASP API Security Top 10 - 1"
             }
           },
           {
-            "id": "4c86758302cfadef",
+            "id": "bf60c8ee875e34ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinuxBasicsforHackers2E/Compressing and archiving.md",
+                "file": "tryhackme/Web Application Pentesting/Enumeration & Brute Force.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compressing and archiving"
+              "title": "Enumeration & Brute Force"
+            }
+          },
+          {
+            "id": "1f564fedf881aa99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tryhackme/Cyber Security 101/Cryptography.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cryptography"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e3f5ba51ac342727",
+    "id": "128dcd7185aada49",
     "type": "split",
     "children": [
       {
-        "id": "cde2f86dbcc212a8",
+        "id": "65898430ca75bbf1",
         "type": "tabs",
         "children": [
           {
-            "id": "27dc38e3d5002a8e",
+            "id": "18dd2adf14055cb2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +77,7 @@
             }
           },
           {
-            "id": "981ad3d7028358d2",
+            "id": "5d8c98e088d9c7fa",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +94,7 @@
             }
           },
           {
-            "id": "779b596b84af79b1",
+            "id": "16016c07098c97f9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -95,20 +110,19 @@
     "width": 300
   },
   "right": {
-    "id": "d4a54ea2c0a6c49e",
+    "id": "a4003370c2e7ac19",
     "type": "split",
     "children": [
       {
-        "id": "f32b6a962079baad",
+        "id": "1b648b04230e048f",
         "type": "tabs",
         "children": [
           {
-            "id": "dc59fedcb240dd8e",
+            "id": "65f4e201f2a61ec9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tryhackme/Web Application Pentesting/Session Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,25 +132,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session Management"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "db01b9384b2c7188",
+            "id": "2ed007c5b910e001",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tryhackme/Web Application Pentesting/Session Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session Management"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "1b7626348fc40585",
+            "id": "2904799cb7446b46",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -151,18 +164,17 @@
             }
           },
           {
-            "id": "fe9c7c0b43d98272",
+            "id": "82ad3f4793153fd0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "tryhackme/Web Application Pentesting/Session Management.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session Management"
+              "title": "Outline"
             }
           }
         ]
@@ -183,50 +195,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "048a19823d6ded94",
+  "active": "bf60c8ee875e34ed",
   "lastOpenFiles": [
-    "binary exploitation/pwn college/linux.md",
-    "binary exploitation/pwn college/assembly.md",
-    "GameDev/metroidvania forge/Project setup.md",
-    "GameDev/metroidvania forge/playerc scene.md",
-    "GameDev/GDScript.md",
-    "GameDev/Godot course.md",
-    "GameDev/Ideas.md",
-    "binary exploitation/pwn college/bash.md",
-    "binary exploitation/pwn college/img/Pasted image 20260704163806.png",
-    "binary exploitation/pwn college/img/Pasted image 20260704163801.png",
-    "binary exploitation/pwn college/img/Pasted image 20260704163421.png",
-    "binary exploitation/pwn college/img/Pasted image 20260704163408.png",
-    "lfkmsdmnfqlmksng/Python venv.md",
-    "GameDev/Git & Github.md",
-    "tryhackme/Web Fendamentals/Subdomain Enumeration.md",
-    "tryhackme/Web Fendamentals/SSRF.md",
-    "tryhackme/Web Fendamentals/SQL Injection.md",
-    "tryhackme/Web Fendamentals/Race Conditions.md",
-    "tryhackme/Web Fendamentals/OWASP Top 10 2025 (Insecure Data Handling).md",
-    "tryhackme/Web Fendamentals/OWASP Top 10 2025 (IAAA Failures).md",
+    "tryhackme/Web Fendamentals/UntitledOWASP Top 10 2025 (Insecure Data Handling).md",
+    "tryhackme/Web Application Pentesting/Enumeration & Brute Force.md",
+    "tryhackme/Web Application Pentesting",
+    "tryhackme/Untitled.md",
     "tryhackme/Web Fendamentals/OWASP Top 10 2025 (Application Design Flaws).md",
+    "tryhackme/Web Fendamentals/OWASP Top 10 2025 (IAAA Failures).md",
     "tryhackme/Web Fendamentals/OWASP API Security Top 10 - 1.md",
     "tryhackme/Web Fendamentals/Intro to Cross-site Scripting.md",
-    "tryhackme/Web Fendamentals/IDOR.md",
-    "tryhackme/Web Fendamentals/Gobuster.md",
-    "tryhackme/Web Fendamentals/File inclusion.md",
-    "tryhackme/Web Fendamentals/Content Discovery.md",
-    "tryhackme/Web Fendamentals/Command Injection.md",
-    "tryhackme/Web Fendamentals/What The Sell.md",
+    "tryhackme/Web Fendamentals/SQL Injection.md",
     "tryhackme/Web Fendamentals/Upload Vulnerabilities.md",
-    "binary exploitation/img/Pasted image 20260417185800.png",
-    "binary exploitation/pwn college/linux.md.conflict2",
-    "binary exploitation/pwn college/linux.md.conflict2.cbeba738.partial",
-    "binary exploitation/pwn college/linux.md.conflict1",
-    "binary exploitation/pwn college/img/Pasted image 20260603231946.png",
-    "binary exploitation/pwn college/img",
-    "binary exploitation/pwn college",
-    "binary exploitation/img",
-    "binary exploitation",
-    "portswigger academy",
-    "tryhackme/Web Application Pentesting/img/Pasted image 20260320231143.png",
-    "tryhackme/Web Application Pentesting/img/Pasted image 20260316190039.png",
-    "tryhackme/Web Application Pentesting/img"
+    "tryhackme/Web Fendamentals/BurpSuite/Other Modules.md",
+    "tryhackme/Web Fendamentals/BurpSuite/Intruder.md",
+    "tryhackme/Web Fendamentals/BurpSuite/Repeater.md",
+    "tryhackme/Web Fendamentals/img/Pasted image 20260313155212.png",
+    "tryhackme/Web Fendamentals/What The Sell.md",
+    "tryhackme/Web Fendamentals/img/Pasted image 20260312173951.png",
+    "tryhackme/Cyber Security 101/Exploitation Basics.md",
+    "tryhackme/Cyber Security 101/Cryptography.md",
+    "tryhackme/Web Fendamentals/img/Pasted image 20260311012512.png",
+    "tryhackme/Web Fendamentals/Gobuster.md",
+    "tryhackme/Web Fendamentals/Subdomain Enumeration.md",
+    "tryhackme/Cyber Security 101/Gobuster.md",
+    "tryhackme/Web Fendamentals/IDOR.md",
+    "tryhackme/Web Fendamentals/Race Conditions.md",
+    "tryhackme/Web Fendamentals/Gobuster.md.conflict2",
+    "tryhackme/Web Fendamentals/Gobuster.md.conflict1",
+    "tryhackme/Cyber Security 101/Shells Overview.md",
+    "LinuxBasicsforHackers2E/Analyzing and managing networks.md",
+    "LinuxBasicsforHackers2E/Adding and removing software.md",
+    "LinuxBasicsforHackers2E/The logging system.md",
+    "LinuxBasicsforHackers2E/Process management.md",
+    "LinuxBasicsforHackers2E/Managing user environment variables.md",
+    "tryhackme/Web Fendamentals/BurpSuite/img/sqdqdsqsd.gif",
+    "tryhackme/Web Fendamentals/BurpSuite/img/3b370cfce8a050faf415c7d9a5a8227e.gif",
+    "tryhackme/Web Fendamentals/BurpSuite/img/Pasted image 20260227213707.png",
+    "tryhackme/Web Fendamentals/BurpSuite/img"
   ]
 }

@@ -198,3 +198,11 @@ R  → enter replace mode (until <Esc>)
 :w ++p
 :e $MYVIMRC   → reopen config file
 ```
+--------------
+***mason***: space -> c -> m : manage language servers
+***rename***: space -> c -> r 
+
+gsa :  select and ''
+
+
+
