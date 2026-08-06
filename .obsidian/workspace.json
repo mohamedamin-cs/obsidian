@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "4c86758302cfadef",
+            "id": "46d51559abf389c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinuxBasicsforHackers2E/Compressing and archiving.md",
+                "file": "binary exploitation/pwn college/bash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compressing and archiving"
+              "title": "bash"
             }
           }
         ]
@@ -55,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -186,17 +188,27 @@
   "active": "048a19823d6ded94",
   "lastOpenFiles": [
     "binary exploitation/pwn college/linux.md",
+    "binary exploitation/pwn college/bash.md",
     "binary exploitation/pwn college/assembly.md",
+    "tryhackme/Cyber Security 101/Exploitation Basics.md",
+    "binary exploitation/C.md",
+    "binary exploitation/pwn college/img/Pasted image 20260731182954.png",
+    "binary exploitation/pwn college/img/Pasted image 20260731181847.png",
+    "binary exploitation/pwn college/img/Pasted image 20260731181843.png",
+    "binary exploitation/pwn college/img/Pasted image 20260731181219.png",
+    "GameDev/metroidvania forge/Series overview.md",
     "GameDev/metroidvania forge/Project setup.md",
     "GameDev/metroidvania forge/playerc scene.md",
+    "binary exploitation/pwn college/img/Pasted image 20260713130153.png",
+    "binary exploitation/pwn college/img/Pasted image 20260712210733.png",
+    "LinuxBasicsforHackers2E/Compressing and archiving.md",
+    "GameDev/Ideas.md",
+    "binary exploitation/pwn college/img/Pasted image 20260711163145.png",
+    "binary exploitation/pwn college/img/Pasted image 20260711160729.png",
+    "binary exploitation/pwn college/img/Pasted image 20260711160707.png",
     "GameDev/GDScript.md",
     "GameDev/Godot course.md",
-    "GameDev/Ideas.md",
-    "binary exploitation/pwn college/bash.md",
     "binary exploitation/pwn college/img/Pasted image 20260704163806.png",
-    "binary exploitation/pwn college/img/Pasted image 20260704163801.png",
-    "binary exploitation/pwn college/img/Pasted image 20260704163421.png",
-    "binary exploitation/pwn college/img/Pasted image 20260704163408.png",
     "lfkmsdmnfqlmksng/Python venv.md",
     "GameDev/Git & Github.md",
     "tryhackme/Web Fendamentals/Subdomain Enumeration.md",
@@ -211,22 +223,14 @@
     "tryhackme/Web Fendamentals/IDOR.md",
     "tryhackme/Web Fendamentals/Gobuster.md",
     "tryhackme/Web Fendamentals/File inclusion.md",
-    "tryhackme/Web Fendamentals/Content Discovery.md",
-    "tryhackme/Web Fendamentals/Command Injection.md",
-    "tryhackme/Web Fendamentals/What The Sell.md",
-    "tryhackme/Web Fendamentals/Upload Vulnerabilities.md",
-    "binary exploitation/img/Pasted image 20260417185800.png",
     "binary exploitation/pwn college/linux.md.conflict2",
     "binary exploitation/pwn college/linux.md.conflict2.cbeba738.partial",
     "binary exploitation/pwn college/linux.md.conflict1",
-    "binary exploitation/pwn college/img/Pasted image 20260603231946.png",
     "binary exploitation/pwn college/img",
     "binary exploitation/pwn college",
     "binary exploitation/img",
     "binary exploitation",
     "portswigger academy",
-    "tryhackme/Web Application Pentesting/img/Pasted image 20260320231143.png",
-    "tryhackme/Web Application Pentesting/img/Pasted image 20260316190039.png",
     "tryhackme/Web Application Pentesting/img"
   ]
 }
